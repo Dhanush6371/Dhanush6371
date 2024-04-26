@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M DhanushVardhan</h1>
 <h3 align="center">A passionate frontend developer,DataScientist from India</h3>
 
-- 🌱 I’m currently learning **FRamworks**
+- 🌱 I’m currently learning **Faamworks**
 
 - 💬 Ask me about **React JS ,Machine Learning, Python**
 
